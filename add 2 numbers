@@ -1,0 +1,5 @@
+int x, y
+x=4, y=5
+add two numbers
+print sum=x+y
+end
