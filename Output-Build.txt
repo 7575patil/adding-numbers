@@ -1,0 +1,5 @@
+﻿Rebuild started...
+1>------ Rebuild All started: Project: console app addition, Configuration: Debug Any CPU ------
+Restored C:\Users\HP\source\repos\console app addition\console app addition\console app addition.csproj (in 56 ms).
+1>console app addition -> C:\Users\HP\source\repos\console app addition\console app addition\bin\Debug\net5.0\console app addition.dll
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
